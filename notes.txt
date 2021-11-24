@@ -1,0 +1,4 @@
+html video tag has poster and controls attributes
+js video events play, pause, timeupdate
+js video methods play, pause
+js video properties currentTime, duration
